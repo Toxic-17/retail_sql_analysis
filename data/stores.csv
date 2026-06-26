@@ -1,0 +1,26 @@
+store_id,store_name,city,state,region
+1,Mumbai Store,Mumbai,Maharashtra,West
+2,Pune Store,Pune,Maharashtra,West
+3,Ahmedabad Store,Ahmedabad,Gujarat,West
+4,Delhi Store,Delhi,Delhi,North
+5,Jaipur Store,Jaipur,Rajasthan,North
+6,Chandigarh Store,Chandigarh,Punjab,North
+7,Bengaluru Store,Bengaluru,Karnataka,South
+8,Chennai Store,Chennai,Tamil Nadu,South
+9,Hyderabad Store,Hyderabad,Telangana,South
+10,Kochi Store,Kochi,Kerala,South
+11,Kolkata Store,Kolkata,West Bengal,East
+12,Bhubaneswar Store,Bhubaneswar,Odisha,East
+13,Patna Store,Patna,Bihar,East
+14,Bhopal Store,Bhopal,Madhya Pradesh,Central
+15,Indore Store,Indore,Madhya Pradesh,Central
+16,Raipur Store,Raipur,Chhattisgarh,Central
+17,Lucknow Store,Lucknow,Uttar Pradesh,North
+18,Surat Store,Surat,Gujarat,West
+19,Nagpur Store,Nagpur,Maharashtra,West
+20,Coimbatore Store,Coimbatore,Tamil Nadu,South
+21,Vadodara Store,Vadodara,Gujarat,West
+22,Visakhapatnam Store,Visakhapatnam,Andhra Pradesh,South
+23,Guwahati Store,Guwahati,Assam,East
+24,Ludhiana Store,Ludhiana,Punjab,North
+25,Nashik Store,Nashik,Maharashtra,West
